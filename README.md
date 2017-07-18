@@ -9,8 +9,8 @@
 * [Tutorials](#tutorials)
 * [Videos](#videos)
 * [Courses](#courses)
-* [Papers](#Papers)
-* [Tools](#Tools)
+* [Papers](#papers)
+* [Tools](#tools)
 
 
 ## Books
