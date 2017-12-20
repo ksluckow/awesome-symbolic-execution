@@ -32,6 +32,13 @@
 * [Symbolic Execution Lecture (part of Software Security course on Coursera)](https://www.coursera.org/learn/software-security/lecture/agCNF/introducing-symbolic-execution).
 
 
+## History
+
+[symbolic-execution](https://github.com/enzet/symbolic-execution)
+
+> History of symbolic execution
+
+
 ## Tools
 
 
