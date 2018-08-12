@@ -96,7 +96,7 @@
 * [BitBlaze](http://bitblaze.cs.berkeley.edu/).
 * [PathGrind](https://github.com/codelion/pathgrind) - Path-based dynamic analysis for 32-bit programs.
 * [FuzzBALL](http://bitblaze.cs.berkeley.edu/fuzzball.html) - Symbolic execution tool built on the BitBlaze Vine component.
-* [S2E](http://s2e.epfl.ch/) - Symbolic execution platform supporting x86, x86-64, or ARM software stacks.
+* [S2E](http://s2e.systems/) - Symbolic execution platform supporting x86, x86-64, or ARM software stacks.
 * [miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework. Includes symbolic execution.
 * [pysymemu](https://github.com/feliam/pysymemu/) - Supports x86/x64 binaries.
 * [BAP](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform provides a framework for writing program analysis tools.
