@@ -102,7 +102,7 @@
 * [BAP](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform provides a framework for writing program analysis tools.
 * [angr](http://angr.io/) - Python framework for analyzing binaries. Includes a symbolic execution tool.
 * [Triton](https://triton.quarkslab.com/) - Dynamic binary analysis platform that includes a dynamic symbolic execution tool.
-* [manticore](https://github.com/trailofbits/manticore) - symbolic execution tool for binaries (x86, x86_64 and ARMV7) and Ethereum smart contract bytecode
+* [manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for binaries (x86, x86_64 and ARMV7) and Ethereum smart contract bytecode.
 
 
 ### Misc
