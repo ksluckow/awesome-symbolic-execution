@@ -37,7 +37,7 @@
 
 ### Java
 
-* [JPF-Symbc](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc) - Symbolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/). Supports multiple constraint solvers, lazy initialization, etc.
+* [Symbolic PathFinder (SPF)](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc) - Symbolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/). Supports multiple constraint solvers, lazy initialization, etc.
 * [JDart](https://github.com/psycopaths/jdart) - Dynamic symbolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints).
 * [CATG](https://github.com/ksen007/janala2) - Concolic execution tool that uses [ASM](http://asm.ow2.org/) for instrumentation. Uses CVC4.
 * [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://sable.github.io/soot/) for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
