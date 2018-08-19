@@ -17,7 +17,7 @@
 * [A system to generate test data and symbolically execute programs](https://doi.org/10.1109/TSE.1976.233817), L. A. Clarke.
 * [All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)](https://doi.org/10.1109/SP.2010.26), Edward J. Schwartz, Thanassis Avgerinos, David Brumley.
 * [A Survey of Symbolic Execution Techniques](https://arxiv.org/pdf/1610.00502.pdf), Roberto Baldoni, Emilio Coppa, Daniele Cono D’Elia, Camil Demetrescu, and Irene Finocchi.
-
+* [Improving Function Coverage with Munch: A Hybrid Fuzzing and Directed Symbolic Execution Approach](https://arxiv.org/pdf/1711.09362.pdf)
 
 ## Courses
 
