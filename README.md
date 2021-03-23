@@ -53,7 +53,7 @@
 * [KLEE](http://klee.github.io/) - Symbolic execution engine built on LLVM.
 * [Cloud9](http://cloud9.epfl.ch/) - Parallel symbolic execution engine built on KLEE.
 * [Kite](http://www.cs.ubc.ca/labs/isd/Projects/Kite/) - Based on KLEE and LLVM.
-
+* [SymCC](https://github.com/eurecom-s3/symcc) - A compiler wrapper which embeds symbolic execution into the program during compilation, and an associated run-time support library.
 
 ### .NET
 
