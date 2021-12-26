@@ -66,6 +66,9 @@
 * [Otter](https://bitbucket.org/khooyp/otter/).
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
 
+### C++
+
+* [IKOS](https://github.com/NASA-SW-VnV/ikos) - IKOS (Inference Kernel for Open Static Analyzers) is a static analyzer for C/C++ based on the theory of Abstract Interpretation
 
 ### JavaScript
 
