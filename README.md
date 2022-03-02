@@ -104,6 +104,7 @@
 * [angr](http://angr.io/) - Python framework for analyzing binaries. Includes a symbolic execution tool.
 * [Triton](https://triton.quarkslab.com/) - Dynamic binary analysis platform that includes a dynamic symbolic execution tool.
 * [manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for binaries (x86, x86_64 and ARMV7) and Ethereum smart contract bytecode.
+* [MAAT](https://github.com/trailofbits/maat) - Low-level symbolic execution tool, uses Ghidra's p-code.  
 * [BinCAT](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 
 
