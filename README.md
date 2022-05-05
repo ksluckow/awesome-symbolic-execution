@@ -30,6 +30,11 @@
 
 * [Symbolic Execution Lecture at MIT](https://www.youtube.com/watch?v=mffhPgsl8Ws).
 * [Symbolic Execution Lecture (part of Software Security course on Coursera)](https://www.coursera.org/learn/software-security/lecture/agCNF/introducing-symbolic-execution).
+* Program Analysis course by Prof. Dr. Michael Pradel at University of Stuttgart
+  * [Symbolic and Concolic Testing (Part 1, Symbolic)](https://youtu.be/wOO5jpoFIss)
+  * [Symbolic and Concolic Testing (Part 2, Challenges)](https://youtu.be/K_Q32ar1g6g)
+  * [Symbolic and Concolic Testing (Part 3, Concolic)](https://youtu.be/TlEjgqSXYNE)
+  * [Symbolic and Concolic Testing (Part 4, Applications)](https://youtu.be/WSL0Oac2VNc)
 
 
 ## Tools
