@@ -62,15 +62,15 @@
 
 ### C
 
-* [CREST](https://github.com/jburnim/crest).
-* [Otter](https://bitbucket.org/khooyp/otter/).
+* [CREST](https://github.com/jburnim/crest) - is an open-source tool for concolic testing of C programs.
+* [Otter](https://bitbucket.org/khooyp/otter/) - is a pure, source-level symbolic executor for C that can be used to test programs.
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
 
 
 ### JavaScript
 
-* [Jalangi2](https://github.com/Samsung/jalangi2).
-* [SymJS](https://doi.org/10.1145/2635868.2635913).
+* [Jalangi2](https://github.com/Samsung/jalangi2) - Dynamic analysis framework for JavaScript.
+* [SymJS](https://doi.org/10.1145/2635868.2635913) - Automatic symbolic testing of JavaScript web applications.
 
 
 ### Python
@@ -86,15 +86,15 @@
 
 ### Android
 
-* [SymDroid](http://www.cs.umd.edu/~jfoster/papers/cs-tr-5022.pdf).
+* [SymDroid](http://www.cs.umd.edu/~jfoster/papers/cs-tr-5022.pdf) - A Symbolic Executor to Identify Activity Permission in Android Application.
 
 
 ### Binaries
 
 * [Mayhem](http://dx.doi.org/10.1109/SP.2012.31).
 * [SAGE](https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf) - Whitebox file fuzzing tool for X86 Windows applications.
-* [DART](https://doi.org/10.1145/1064978.1065036). 
-* [BitBlaze](http://bitblaze.cs.berkeley.edu/).
+* [DART](https://doi.org/10.1145/1064978.1065036) - is the first concolic testing tool that combines dynamic test generation.
+* [BitBlaze](http://bitblaze.cs.berkeley.edu/) - Binary Analysis for Computer Security.
 * [PathGrind](https://github.com/codelion/pathgrind) - Path-based dynamic analysis for 32-bit programs.
 * [FuzzBALL](http://bitblaze.cs.berkeley.edu/fuzzball.html) - Symbolic execution tool built on the BitBlaze Vine component.
 * [S2E](http://s2e.systems/) - Symbolic execution platform supporting x86, x86-64, or ARM software stacks.
