@@ -16,7 +16,9 @@
 * [Symbolic Execution and Program Testing](https://doi.org/10.1145/360248.360252), James C. King.
 * [A system to generate test data and symbolically execute programs](https://doi.org/10.1109/TSE.1976.233817), L. A. Clarke.
 * [All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)](https://doi.org/10.1109/SP.2010.26), Edward J. Schwartz, Thanassis Avgerinos, David Brumley.
+* [Symbolic Execution for Software Testing: Three Decades Later](https://dl.acm.org/doi/10.1145/2408776.2408795), Cristian Cadar and Koushik Sen
 * [A Survey of Symbolic Execution Techniques](https://arxiv.org/pdf/1610.00502.pdf), Roberto Baldoni, Emilio Coppa, Daniele Cono D’Elia, Camil Demetrescu, and Irene Finocchi.
+* ***Collection of symbolic execution papers:** [XMUsuny/symbolic-execution-papers](https://github.com/XMUsuny/symbolic-execution-papers)*
 
 
 ## Courses
