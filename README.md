@@ -106,8 +106,10 @@
 * [manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for binaries (x86, x86_64 and ARMV7) and Ethereum smart contract bytecode.
 * [MAAT](https://github.com/trailofbits/maat) - Low-level symbolic execution tool, uses Ghidra's p-code.  
 * [BinCAT](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
+* [Sydr-Fuzz](https://sydr-fuzz.github.io/) - Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle.
 
 
 ### Misc
 
 * [Symbooglix](https://github.com/symbooglix/symbooglix) - Symbolic execution tool for Boogie programs.
+* [OSS-Sydr-Fuzz](https://github.com/ispras/oss-sydr-fuzz) - Hybrid Fuzzing for Open Source Software
