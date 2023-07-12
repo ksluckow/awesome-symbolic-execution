@@ -115,6 +115,7 @@
 * [MAAT](https://github.com/trailofbits/maat) - Low-level symbolic execution tool, uses Ghidra's p-code.  
 * [BinCAT](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [Sydr-Fuzz](https://sydr-fuzz.github.io/) - Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle.
+* [SymEx-VP](https://github.com/agra-uni-bremen/symex-vp) - Symbolic execution for RISC-V embedded firmware with accurate SystemC peripheral models.
 
 
 ### Misc
