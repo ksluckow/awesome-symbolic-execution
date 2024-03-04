@@ -53,6 +53,7 @@
 * [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/).
 * [JBSE](http://pietrobraione.github.io/jbse/) - Symbolic execution tool that uses a custom JVM. Supports CVC3, CVC4, Sicstus, and Z3.
 * [Key](https://www.key-project.org/) - Theorem Prover that uses specifications written in Java Modeling Language (JML).
+* [SWAT](https://github.com/SWAT-project/SWAT) - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) for formula generation and currently [Z3](https://github.com/Z3Prover/z3) as a solver.
 
 
 ### LLVM
