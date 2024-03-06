@@ -44,13 +44,13 @@
 
 ### Java
 
-* [Symbolic PathFinder (SPF)](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc) - Symbolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/). Supports multiple constraint solvers, lazy initialization, etc.
-* [JDart](https://github.com/psycopaths/jdart) - Dynamic symbolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints).
+* [Symbolic PathFinder (SPF)](https://github.com/SymbolicPathFinder/jpf-symbc) - Symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers, lazy initialization, etc.
+* [JDart](https://github.com/psycopaths/jdart) - Dynamic symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints).
 * [CATG](https://github.com/ksen007/janala2) - Concolic execution tool that uses [ASM](http://asm.ow2.org/) for instrumentation. Uses CVC4.
-* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://sable.github.io/soot/) for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
-* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://sable.github.io/soot/) for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3).
-* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://sable.github.io/soot/) for instrumentation. Supports [lp_solve](http://lpsolve.sourceforge.net/).
-* [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/).
+* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
+* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3).
+* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) for instrumentation. Supports [lp_solve](http://lpsolve.sourceforge.net/).
+* [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://github.com/javapathfinder).
 * [JBSE](http://pietrobraione.github.io/jbse/) - Symbolic execution tool that uses a custom JVM. Supports CVC3, CVC4, Sicstus, and Z3.
 * [Key](https://www.key-project.org/) - Theorem Prover that uses specifications written in Java Modeling Language (JML).
 * [SWAT](https://github.com/SWAT-project/SWAT) - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) for formula generation and currently [Z3](https://github.com/Z3Prover/z3) as a solver.
