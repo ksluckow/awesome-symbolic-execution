@@ -74,7 +74,7 @@
 * [CREST](https://github.com/jburnim/crest) - is an open-source tool for concolic testing of C programs.
 * [Otter](https://bitbucket.org/khooyp/otter/) - is a pure, source-level symbolic executor for C that can be used to test programs.
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
-
+* [SymCC](https://github.com/eurecom-s3/symcc) - An efficient compiler-based symbolic execution
 
 ### JavaScript
 
@@ -86,6 +86,7 @@
 
 * [CrossHair](https://github.com/pschanely/CrossHair) - Symbolic execution tool for verifying properties of Python functions.
 * [PyExZ3](https://github.com/thomasjball/PyExZ3) - Symbolic execution of Python functions. A rewrite of the [NICE](https://code.google.com/archive/p/nice-of) project's symbolic execution tool.
+* [angr](https://angr.io/) - An open-source binary analysis platform for Python.
 
 
 ### Ruby
