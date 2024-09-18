@@ -41,6 +41,9 @@
 
 ## Tools
 
+### Rust
+
+* [Owi](https://github.com/OCamlPro/owi) - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run Rust code.
 
 ### Java
 
@@ -63,6 +66,7 @@
 * [Kite](http://www.cs.ubc.ca/labs/isd/Projects/Kite/) - Based on KLEE and LLVM.
 * [SymCC](https://github.com/eurecom-s3/symcc) - A compiler wrapper which embeds symbolic execution into the program during compilation, and an associated run-time support library.
 * [GenSym](https://github.com/Generative-Program-Analysis/GenSym) - A compiler for parallel fork-based symbolic execution.
+* [Owi](https://github.com/OCamlPro/owi) - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run LLVM code.
 
 ### .NET
 
@@ -74,6 +78,7 @@
 * [CREST](https://github.com/jburnim/crest) - is an open-source tool for concolic testing of C programs.
 * [Otter](https://bitbucket.org/khooyp/otter/) - is a pure, source-level symbolic executor for C that can be used to test programs.
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
+* [Owi](https://github.com/OCamlPro/owi) - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run C code.
 
 
 ### JavaScript
@@ -117,6 +122,7 @@
 * [BinCAT](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [Sydr-Fuzz](https://sydr-fuzz.github.io/) - Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle.
 * [SymEx-VP](https://github.com/agra-uni-bremen/symex-vp) - Symbolic execution for RISC-V embedded firmware with accurate SystemC peripheral models.
+* [Owi](https://github.com/OCamlPro/owi) - Parallel symbolic execution engine built on WebAssembly (Wasm).
 
 
 ### Misc
