@@ -80,6 +80,9 @@
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
 * [Owi](https://github.com/OCamlPro/owi) - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run C code.
 
+### C++
+
+* [IKOS](https://github.com/NASA-SW-VnV/ikos) - IKOS (Inference Kernel for Open Static Analyzers) is a static analyzer for C/C++ based on the theory of Abstract Interpretation
 
 ### JavaScript
 
