@@ -71,6 +71,7 @@
 ### .NET
 
 * [PEX](http://pex4fun.com/About.aspx) - Dynamic symbolic execution tool for .NET.
+* [VSharp](https://github.com/VSharp-team/VSharp) - Symbolic execution engine for .NET assemblies.
 
 
 ### C
