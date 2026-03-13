@@ -92,6 +92,7 @@
 
 * [CrossHair](https://github.com/pschanely/CrossHair) - Symbolic execution tool for verifying properties of Python functions.
 * [PyExZ3](https://github.com/thomasjball/PyExZ3) - Symbolic execution of Python functions. A rewrite of the [NICE](https://code.google.com/archive/p/nice-of) project's symbolic execution tool.
+* [APEX](https://github.com/allexdav2/apex) - Concolic execution engine for Python with coverage-guided test generation. Built in Rust.
 
 
 ### Ruby
